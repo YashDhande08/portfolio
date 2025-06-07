@@ -42,7 +42,7 @@ const About = () => {
             About <span className="about-title-gradient">Me</span>
           </h2>
           <p className="about-subtitle">
-            I'm a passionate developer with 5+ years of experience creating digital solutions
+            I'm a passionate developer with 1+ years of experience creating digital solutions
           </p>
         </div>
 

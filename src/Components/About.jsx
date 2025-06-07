@@ -51,7 +51,7 @@ const About = () => {
           <div className="about-text">
             <h3>My Story</h3>
             <p>
-              I started my journey in web development 5 years ago, and since then I've been passionate 
+              I started my journey in web development in college days, and since then I've been passionate 
               about creating digital experiences that make a difference. I love turning complex problems 
               into simple, beautiful designs.
             </p>

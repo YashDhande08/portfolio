@@ -27,7 +27,7 @@ const Hero = () => {
             <div className="hero-avatar-wrapper">
               <div className="hero-avatar-inner">
                 <img 
-                  src="https://media.licdn.com/dms/image/v2/D5603AQFJHnctRxO5WA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709226332411?e=1754524800&v=beta&t=aShXee5jt944_7XMDi0ctrBzYneJTwD_BWBr7VMsk7M"
+                  src="https://media.licdn.com/dms/image/v2/D5635AQHnp-guVuL85g/profile-framedphoto-shrink_200_200/B56Z0u68deHkAc-/0/1774608697433?e=1775214000&v=beta&t=jgDPUe7VJCapEAVTGLRH7rc4STm6rSVZToxG9VHi_Oc"
                   alt="Profile"
                   className="hero-avatar-img"
                 />
